@@ -20,7 +20,7 @@
 
     <modules>
         <module>scw-rest</module>
-        <module>scw-web</module>
+        <module>scw-web-react</module>
     </modules>
 
     <build>

@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.scw</groupId>
-    <artifactId>scw-web</artifactId>
+    <artifactId>scw-web-react</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <properties>
